@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Courses"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,87 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Illinois Urbana-Champaign"
+  organization_url = "https://www.cs.illinois.edu"
+  title = "CS 483: Applied Parallel Programming"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2020-01-21"
+  date_end = "2020-05-06"
   description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "University of Illinois Urbana-Champaign"
+  organization_url = "https://www.cs.illinois.edu"
+  title = "CS 473: Algorithms"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2020-01-21"
+  date_end = "2020-05-06"
+  description = ""
+  
+[[item]]
+  organization = "University of Illinois Urbana-Champaign"
+  organization_url = "https://www.cs.illinois.edu"
+  title = "CS 411: Database Systems"
+  url = ""
+  #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2020-01-21"
+  date_end = "2020-05-06"
   description = ""
 
+
+[[item]]
+  organization = "University of Illinois Urbana-Champaign"
+  organization_url = "https://www.cs.illinois.edu"
+  title = "CS 547: Deep Learning"
+  url = ""
+  #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2019-09-02"
+  date_end = "2019-12-12"
+  description = ""
+  
+[[item]]
+  organization = "University of Illinois Urbana-Champaign"
+  organization_url = "https://www.cs.illinois.edu"
+  title = "CS 374: Introduction to Algorithms & Models of Computation"
+  url = ""
+  #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2019-09-02"
+  date_end = "2019-12-12"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Coursera Algorithm 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2019-05-02"
+  date_end = "2019-06-02"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Coursera Algorithm 2: Graph Search, Shortest Paths, and Data Structures"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2019-06-02"
+  date_end = "2019-07-02"
+  description = ""
+
+
+[[item]]
+  organization = "University of Illinois Urbana-Champaign"
+  organization_url = "https://www.cs.illinois.edu"
+  title = "CS 225: Introduction to Data Structures and Algorithms with C++"
+  url = ""
+  #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
+  date_start = "2018-08-27"
+  date_end = "2018-12-12"
+  description = ""
+
+
+  
 +++

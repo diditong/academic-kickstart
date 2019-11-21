@@ -1,0 +1,37 @@
+Answers to Problem Set#1:
+1. $$nlog(n)$$
+2. True
+3. Yes if ... & Sometimes yes, sometimes no ...
+4. $$\theta(nk^2)$$
+5. dcbae
+
+Answers to Problem Set#2:
+1. $$\theta(nk^{2.81})$$
+2. $$\theta(n^2log(n))$$
+3. $$\theta(n^{log_{3}{5}})$$
+4. $$\theta(log(b))$$
+5. $$\theta(loglog(n))$$
+
+Answers to Problem Set#3:
+
+
+
+Answers to Problem Set#4:
+1. n-1
+2. For every graph GG with nn nodes and every min cut (A,B) of G Pr>=p &
+For every graph GG with nn nodes, there exists a min cut (A,B) of G such that Pr>=p.
+3. $$2\alpha-1$$
+4. $$-log(n)/log(\alpha)$$
+5. $$n-1$$
+
+Answers to Final Exam:
+1. 4,5,9
+2. 2
+3. $$nlog(n)$$
+4. $$nlog(n) and n^2$$
+5. Yes if ... & Maybe, maybe not ...
+6. $$1-2\alpha$$
+7. $$log(\epsilon)/log(1-p)$$
+8. $$nklog(k)$$
+9. $$n^{log2(7)}$$
+10. The rate at which the work-per-subproblem is shrinking (per level of recursion).
