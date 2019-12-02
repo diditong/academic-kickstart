@@ -30,5 +30,5 @@ image:
 slides: example
 ---
 
-ssss
+ssss `content/project/FEM And Deep Learning/f2.png`
 

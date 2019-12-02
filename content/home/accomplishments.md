@@ -68,6 +68,16 @@ date_format = "Jan 2006"
   date_start = "2019-09-02"
   date_end = "2019-12-12"
   description = ""
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Coursera Machine Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/records/T8QWKTALWSCK"
+  date_start = "2019-11-02"
+  date_end = "2019-12-02"
+  description = ""
 
 [[item]]
   organization = "Coursera"
@@ -75,20 +85,9 @@ date_format = "Jan 2006"
   title = "Coursera Algorithm 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
-  date_start = "2019-05-02"
-  date_end = "2019-06-02"
+  date_start = "2019-07-02"
+  date_end = "2019-08-02"
   description = ""
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Coursera Algorithm 2: Graph Search, Shortest Paths, and Data Structures"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
-  date_start = "2019-06-02"
-  date_end = "2019-07-02"
-  description = ""
-
 
 [[item]]
   organization = "University of Illinois Urbana-Champaign"
@@ -99,7 +98,6 @@ date_format = "Jan 2006"
   date_start = "2018-08-27"
   date_end = "2018-12-12"
   description = ""
-
 
   
 +++
