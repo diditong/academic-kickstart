@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   location = "Illinois"
   date_start = "2019-08-01"
   date_end = "2019-12-31"
-  description = """Run weekly meetings with MechSE faculty to advise the student teams, provide revision advice on technical reports and host monthly presentations"""
+  description = """ <p>1. Managed eight senior design projects, lead student teams through the design process </p>
+                    <p>2. Hosted monthly project presentations with project sponsors to examine student team progress </p>"""
 
 [[experience]]
   title = "Teaching Assistant of ME170 (Computer Aided Design)"
@@ -34,16 +35,7 @@ date_format = "Jan 2006"
   location = "Illinois"
   date_start = "2019-01-01"
   date_end = "2019-05-31"
-  description = """Hold lab sessions to teach undergraduate students computer-aided design techniques and advise student teams on the product designs."""
-
-[[experience]]
-  title = "Course Assistant of TAM211 (Statics) & TAM212 (Dynamics)"
-  company = "University of Illinois Urbana-Champaign"
-  company_url = ""
-  location = "Illinois"
-  date_start = "2017-08-01"
-  date_end = "2018-05-31"
-  description = """Hold office hours and discussion sessions to answer student questions related to statics and dynamics"""
-
+  description = """ <p>1. Developed course on the topic of human-centered design with specialists from UIUC design center </p>
+                    <p>2. Taught students CAD techniques using PTC Creo, provided professional advice on product designs </p>"""
 
 +++

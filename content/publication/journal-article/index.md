@@ -1,8 +1,8 @@
 ---
 title: "In Situ Droplet Microgoniometry Using Optical Microscopy"
-authors:
-- admin
-date: "2015-09-01T00:00:00Z"
+authors: 
+- Hyeongyun Cha, Jingcheng Ma, Young Seong Kim, Longnan Li, Luwen Sun, Jiashuo Tong, Nenad Miljkovic
+date: "2019-10-09 T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

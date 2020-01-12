@@ -10,29 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Student from MechSE at University of Illinois Urbana-Champaign
+role: Graduate student from University of Illinois Urbana-Champaign
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois
-  url: ""
-
+- name: MechSE @ Illinois
+  url: "https://mechanical.illinois.edu/"
+- name: CSE @ Illinois
+  url: "https://cse.illinois.edu/"
+  
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Artificial Intelligence
-- Deep Learning
-- Computational Mechanics
+- Scientific Machine Learning
+- Computational Linear Algebra
 
 education:
   courses:
-  - course: MS in Mechanical Engineering (Concentration in CSE)
+  - course: MS in Mechanical Engineering (CSE Concentration)
     institution: University of Illinois
-    year: 2020
+    year: May 2020
   - course: BS in Engineering Mechanics
     institution: University of Illinois
-    year: 2018
+    year: May 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -48,9 +49,15 @@ social:
 # icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
   link: https://github.com/diditong
+
+- icon: leetcode
+  icon_pack: fas
+  link: https://leetcode.com/uiuceceme
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -67,5 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Jiashuo Tong is a student in Mechanical Engineering with a concentration in Computational Science 
-and Engineering, at University of Illinois Urbana-Champaign. 
+I am a graduate student from University of Illinois Urbana-Champaign, with 2-year experience in Python, C++ and C. I bring strong problem-solving skills and effective communications to workplace. I am a collaborative person, who enjoys working in an open environment. Currently, I am seeking software/data engineering internships for Summer 2020.
+
+I received B.S. in Engineering Mechanics from UIUC in May, 2018. As an undergraduate student, I always loved to use new technologies in data science to solve problems in the field of mechanical science and engineering. Then, I continued for graduate study at MechSE Illinois, where I mastered the fundamentals of computer science, and also gained a deeper understanding of data science  through advanced coursework and research practice.
+
+Please feel free to email me at jtong8@illinois.edu (primary), or contact me via phone at 2178192866. Please check out my GitHub profile (https://github.com/diditong) for the projects I have worked on.
