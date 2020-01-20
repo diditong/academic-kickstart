@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student from University of Illinois Urbana-Champaign, with 2-year experience in Python, C++ and C. I bring strong problem-solving skills and effective communications to workplace. I am a collaborative person, who enjoys working in an open environment. Currently, I am seeking software/data engineering internships for Summer 2020.
+I am a graduate student from University of Illinois Urbana-Champaign, with 2-year experience in Python and C++. I bring strong problem-solving skills and effective communications to workplace. I am a collaborative person, who enjoys working in an open environment. Currently, I am seeking data scientist/data engineering internships for Summer 2020.
 
 I received B.S. in Engineering Mechanics from UIUC in May, 2018. As an undergraduate student, I always loved to use new technologies in data science to solve problems in the field of mechanical science and engineering. Then, I continued for graduate study at MechSE Illinois, where I mastered the fundamentals of computer science, and also gained a deeper understanding of data science  through advanced coursework and research practice.
 

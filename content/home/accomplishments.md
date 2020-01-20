@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Illinois Urbana-Champaign"
   organization_url = "https://www.cs.illinois.edu"
-  title = "CS 473: Algorithms"
+  title = "CS 477: Formal Software Development Methods"
   url = ""
   #certificate_url = "https://www.coursera.org/account/accomplishments/records/3HVN6JHLG86T"
   date_start = "2020-01-21"
